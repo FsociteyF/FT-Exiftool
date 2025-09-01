@@ -49,7 +49,7 @@ web : https://fsocitey.neocities.org/
 ---
 
 
-![وصف الصورة](images/logo.png)
+![وصف الصورة](logo.png)
 
 
 ---
