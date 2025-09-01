@@ -1,0 +1,63 @@
+
+  ███████╗███████╗
+  ██╔════╝██╔════╝
+  █████╗  ███████╗
+  ██╔══╝  ╚════██║
+  ██║     ███████║
+  ╚═╝     ╚══════╝
+
+  FsociteyF Rights - Professional Exiftool Metadata Extractor
+
+========================================================================
+    
+--- English Metadata ---
+
+SourceFile                    : /home/fsocitey/Pictures/photo_2025-08-05_13-05-36.jpg
+ExifToolVersion               : 12.57
+FileName                      : photo_2025-08-05_13-05-36.jpg
+Directory                     : /home/fsocitey/Pictures
+FileSize                      : 9.9 kB
+FileModifyDate                : 2025:08:05 13:05:50+03:00
+FileAccessDate                : 2025:09:01 04:45:00+03:00
+FileInodeChangeDate           : 2025:08:05 13:06:12+03:00
+FilePermissions               : -rw-rw-rw-
+FileType                      : JPEG
+FileTypeExtension             : jpg
+MIMEType                      : image/jpeg
+JFIFVersion                   : 1.01
+ResolutionUnit                : inches
+XResolution                   : 72
+YResolution                   : 72
+ProfileCMMType                : 
+ProfileVersion                : 4.3.0
+ProfileClass                  : Display Device Profile
+ColorSpaceData                : RGB 
+ProfileConnectionSpace        : XYZ 
+ProfileDateTime               : 2016:01:01 00:00:00
+ProfileFileSignature          : acsp
+PrimaryPlatform               : Unknown ()
+CMMFlags                      : Not Embedded, Independent
+DeviceManufacturer            : 
+DeviceModel                   : 
+DeviceAttributes              : Reflective, Glossy, Positive, Color
+RenderingIntent               : Media-Relative Colorimetric
+ConnectionSpaceIlluminant     : 0.9642 1 0.82491
+ProfileCreator                : 
+ProfileID                     : 0
+ProfileDescription            : sRGB
+RedMatrixColumn               : 0.43607 0.22249 0.01392
+GreenMatrixColumn             : 0.38515 0.71687 0.09708
+BlueMatrixColumn              : 0.14307 0.06061 0.7141
+MediaWhitePoint               : 0.9642 1 0.82491
+RedTRC                        : (Binary data 40 bytes, use -b option to extract)
+GreenTRC                      : (Binary data 40 bytes, use -b option to extract)
+BlueTRC                       : (Binary data 40 bytes, use -b option to extract)
+ProfileCopyright              : Google Inc. 2016
+ImageWidth                    : 1280
+ImageHeight                   : 719
+EncodingProcess               : Progressive DCT, Huffman coding
+BitsPerSample                 : 8
+ColorComponents               : 3
+YCbCrSubSampling              : YCbCr4:2:0 (2 2)
+ImageSize                     : 1280x719
+Megapixels                    : 0.92

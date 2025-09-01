@@ -1,0 +1,63 @@
+
+  ███████╗███████╗
+  ██╔════╝██╔════╝
+  █████╗  ███████╗
+  ██╔══╝  ╚════██║
+  ██║     ███████║
+  ╚═╝     ╚══════╝
+
+  FsociteyF Rights - Professional Exiftool Metadata Extractor
+
+========================================================================
+    
+--- بيانات التعريف العربية ---
+
+ملف المصدر                    : /home/fsocitey/Pictures/photo_2025-08-05_13-05-36.jpg
+إصدار ExifTool                : 12.57
+اسم الملف                     : photo_2025-08-05_13-05-36.jpg
+المجلد                        : /home/fsocitey/Pictures
+حجم الملف                     : 9.9 kB
+تاريخ تعديل الملف             : 2025:08:05 13:05:50+03:00
+تاريخ الوصول إلى الملف        : 2025:09:01 04:45:00+03:00
+تاريخ تغيير عقدة الملف        : 2025:08:05 13:06:12+03:00
+أذونات الملف                  : -rw-rw-rw-
+نوع الملف                     : JPEG
+امتداد نوع الملف              : jpg
+نوع MIME                      : image/jpeg
+JFIFVersion                   : 1.01
+وحدة الدقة                    : inches
+دقة X                         : 72
+دقة Y                         : 72
+ProfileCMMType                : 
+ProfileVersion                : 4.3.0
+ProfileClass                  : Display Device Profile
+ColorSpaceData                : RGB 
+ProfileConnectionSpace        : XYZ 
+ProfileDateTime               : 2016:01:01 00:00:00
+ProfileFileSignature          : acsp
+PrimaryPlatform               : Unknown ()
+CMMFlags                      : Not Embedded, Independent
+DeviceManufacturer            : 
+DeviceModel                   : 
+DeviceAttributes              : Reflective, Glossy, Positive, Color
+RenderingIntent               : Media-Relative Colorimetric
+ConnectionSpaceIlluminant     : 0.9642 1 0.82491
+ProfileCreator                : 
+ProfileID                     : 0
+ProfileDescription            : sRGB
+RedMatrixColumn               : 0.43607 0.22249 0.01392
+GreenMatrixColumn             : 0.38515 0.71687 0.09708
+BlueMatrixColumn              : 0.14307 0.06061 0.7141
+MediaWhitePoint               : 0.9642 1 0.82491
+RedTRC                        : (Binary data 40 bytes, use -b option to extract)
+GreenTRC                      : (Binary data 40 bytes, use -b option to extract)
+BlueTRC                       : (Binary data 40 bytes, use -b option to extract)
+ProfileCopyright              : Google Inc. 2016
+عرض الصورة                    : 1280
+ارتفاع الصورة                 : 719
+EncodingProcess               : Progressive DCT, Huffman coding
+BitsPerSample                 : 8
+ColorComponents               : 3
+YCbCrSubSampling              : YCbCr4:2:0 (2 2)
+حجم الصورة                    : 1280x719
+ميغابكسل                      : 0.92
